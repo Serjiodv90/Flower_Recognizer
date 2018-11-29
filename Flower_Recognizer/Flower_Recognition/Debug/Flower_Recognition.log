@@ -1,0 +1,10 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (imageUpload.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  imageMain.cpp
+d:\ai\flower_recognition\flower_recognizer\flower_recognition\imagemain.cpp(200): warning C4018: '<': signed/unsigned mismatch
+d:\ai\flower_recognition\flower_recognizer\flower_recognition\imagemain.cpp(248): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+d:\ai\flower_recognition\flower_recognizer\flower_recognition\imagemain.cpp(213): warning C4101: 'k': unreferenced local variable
+d:\ai\flower_recognition\flower_recognizer\flower_recognition\imagemain.cpp(283): warning C4018: '<': signed/unsigned mismatch
+d:\ai\flower_recognition\flower_recognizer\flower_recognition\imagemain.cpp(495): warning C4101: 'k': unreferenced local variable
+d:\ai\flower_recognition\flower_recognizer\flower_recognition\imagemain.cpp(495): warning C4101: 'j': unreferenced local variable
+  Flower_Recognition.vcxproj -> D:\AI\Flower_Recognition\Flower_Recognizer\Debug\Flower_Recognition.exe
+  Flower_Recognition.vcxproj -> D:\AI\Flower_Recognition\Flower_Recognizer\Debug\Flower_Recognition.pdb (Full PDB)
